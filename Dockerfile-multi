@@ -24,6 +24,6 @@ ENV PYTHONPATH="/app/deps"
 # Expose the application port
 EXPOSE 80
 
-# Run the application
+## Run the application
 CMD ["run.py"]
 
